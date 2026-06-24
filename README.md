@@ -191,15 +191,16 @@ README.md
 
 ## 🎓 Learning Source
 
-This project was built as part of my continuous learning journey in:
+This project was built as part of a hands-on SQL Data Warehouse course by:
 
-* Data Analytics
-* SQL Development
-* Business Intelligence
-* Data Warehousing
-* Customer Analytics
+Baraa Khatib Salkini (Data With Baraa)
+🔗 https://www.linkedin.com/in/baraa-khatib-salkini/
+
+📺 Course: https://www.youtube.com/watch?v=SSKVgrwhzus&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe
+
 
 ---
+
 
 ## 📌 Notes
 
